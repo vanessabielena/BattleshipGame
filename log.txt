@@ -1,0 +1,32 @@
+May 24, 2023 6:35:03 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game start
+INFO: App was opened
+May 24, 2023 6:35:04 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game mainMenu
+INFO: Main menu was created.
+May 24, 2023 6:35:06 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$mainMenu$5
+INFO: Loading of a saved game was chosen.
+May 24, 2023 6:35:06 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game generateContent
+INFO: Players and computers boards were created.
+May 24, 2023 6:35:11 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=2, y=4}
+May 24, 2023 6:35:13 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=3, y=5}
+May 24, 2023 6:35:13 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game computerTurn
+INFO: Computers move: Square{x=2, y=4}
+May 24, 2023 6:35:14 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=4, y=4}
+May 24, 2023 6:35:14 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game computerTurn
+INFO: Computers move: Square{x=4, y=2}
+May 24, 2023 6:35:15 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=3, y=3}
+May 24, 2023 6:35:15 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game computerTurn
+INFO: Computers move: Square{x=3, y=3}
+May 24, 2023 6:35:16 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=2, y=5}
+May 24, 2023 6:35:18 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=4, y=1}
+May 24, 2023 6:35:18 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=5, y=1}
+May 24, 2023 6:35:20 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Players move: Square{x=0, y=5}
+May 24, 2023 6:35:20 AM cz.cvut.fel.pjv.battleship.battleshipfx.Game lambda$generateContent$1
+INFO: Human player won.
