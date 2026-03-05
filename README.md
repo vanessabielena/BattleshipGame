@@ -27,6 +27,7 @@ Ships are placed on the board and the goal is to sink all enemy ships before the
 ---
 
 ## Screenshots
+### Game Board
 ![Game Board](Screenshots/Screenshot from 2023-05-20 18-29-53.png)
 
 ![Game Board](Screenshots/Screenshot from 2023-05-21 18-01-43.png)
